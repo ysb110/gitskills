@@ -12,6 +12,10 @@ feature1
 
 改内容我要看合并线，，，，，--no-ff sdfsdf sdfsdfsd
 
+
 操，我不stash不提交
 
 我在branch1改了我不commit 切换
+
+我feature1不push到远端，我用master合并看看
+
