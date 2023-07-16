@@ -11,6 +11,7 @@ feature1
 删除缓存
 
 改内容我要看合并线，，，，，--no-ff sdfsdf sdfsdfsd
+ 
 
 
 操，我不stash不提交
@@ -19,3 +20,6 @@ feature1
 
 我feature1不push到远端，我用master合并看看
 
+ 
+我feature1不push到远端，我用master合并看看
+ 
