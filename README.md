@@ -11,3 +11,7 @@ feature1
 删除缓存
 
 改内容我要看合并线，，，，，--no-ff sdfsdf sdfsdfsd
+
+操，我不stash不提交
+
+我在branch1改了我不commit 切换
