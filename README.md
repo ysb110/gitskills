@@ -8,3 +8,4 @@ feature1
 
 使用privdo VPN工具连上去搭
 
+删除缓存
